@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 from typing import List
+"""
+0-pascal
+"""
 
 
 def pascal_triangle(n):
